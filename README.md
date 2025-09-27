@@ -124,11 +124,11 @@ ai-diagnostic-assistant/
 
 ## 📞 Contact
 
-Built by **SRUJAN P R**  
+Built by **Mausham kumar**  
 Feel free to reach out for collaborations, ideas, or improvements.
 Pull requests are welcome! If you’d like to improve the assistant or contribute new agents or features, feel free to fork the repo and submit a PR.
 
-[LinkedIn](https://www.linkedin.com/in/srujanpr) • [Email](sruja2401@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/maushamkumarray1/) • [Email](maushamkumarray1@gmail.com)
 
 ---
 
@@ -145,3 +145,4 @@ This tool is not a substitute for professional medical advice. It is designed to
 ---
 
 ## ⭐ Star this repo if it helped you!
+
